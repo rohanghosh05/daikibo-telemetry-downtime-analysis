@@ -1,10 +1,9 @@
 # 📊 Daikibo Telemetry Downtime Analysis
 
 
-![Data Analytics](https://img.shields.io/badge/Data-Analytics-blue)
-![Excel](https://img.shields.io/badge/Excel-Analysis-217346?logo=microsoft-excel&logoColor=white)
-![Student Project](https://img.shields.io/badge/Level-Student%20Project-purple)
-
+![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-E97627?logo=tableau&logoColor=white)
+![Deloitte](https://img.shields.io/badge/Deloitte-Data%20Analytics-86BC25?logo=deloitte&logoColor=white)
+![Forage](https://img.shields.io/badge/Forage-Virtual%20Experience-0052CC?logo=forage&logoColor=white)
 
 
 This project analyzes machine telemetry data from **Daikibo Industries** to identify downtime patterns across factories and device types using **Tableau**.  
